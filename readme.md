@@ -11,7 +11,7 @@ This project is for educational purposes only. The intended use of this project 
 * ⚙️ Start Delay
 * ⚙️ Random Build Obfuscation
 #
-* **Chromium Stealer (Password, History, Cookie, Credit Card)**
+* **Chromium Stealer (Password, History, Cookie)**
 	* Google Chrome
 	* Brave
 	* Chromium Browser
